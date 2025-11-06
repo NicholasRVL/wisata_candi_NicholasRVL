@@ -1,4 +1,4 @@
-# wisata_candi
+# wisatacandi
 
 A new Flutter project.
 
