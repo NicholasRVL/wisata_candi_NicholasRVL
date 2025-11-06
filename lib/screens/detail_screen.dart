@@ -155,6 +155,8 @@ class DetailScreen extends StatelessWidget {
                           ),
                         ),
 
+
+                          // slide galery
                         SizedBox(height: 10),
                         SizedBox(
                           height: 100,
@@ -215,3 +217,10 @@ class DetailScreen extends StatelessWidget {
     );
   }
 }
+
+
+
+
+
+
+
